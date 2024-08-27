@@ -1,0 +1,61 @@
+* { margin:0; padding:0; box-sizing:border-box;}
+body{
+  background-color: whitesmoke;
+}
+.part1{
+  border: 2px solid rgb(219, 216, 216);
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 5px;
+}
+.part2{
+  border: 2px solid rgb(219, 216, 216);
+  background-color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.H1 {
+  border: rgb(219, 216, 216);
+  margin-top: 15px;
+  margin-bottom: 25px;
+  font-size: 60px;
+  padding-left: 20px;
+}
+.H2,
+.dropdown {
+  border: rgb(219, 216, 216);
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  padding-left: 20px;
+}
+.breadcrumb {
+  border-top: 2px solid rgb(219, 216, 216);
+  padding-left: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.c {
+  border: 2px transparent rgb(219, 216, 216);
+  font-size: x-large;
+  margin-left: 48px;
+}
+div.searchbar {
+  float: right;
+  border: 2px transparent rgb(219, 216, 216);
+  font-size: x-large;
+  margin-right: 50px;
+}
+.table,
+.thead,
+.tr,
+.col {
+  border: 2px solid rgb(219, 216, 216);
+  margin-left: 48px;
+  width: 95%;
+}
+.h5{
+  border: 1px transparent white;
+  margin-left: 48px;
+}

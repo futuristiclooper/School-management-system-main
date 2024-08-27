@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+/* Time Table heading */
+#header {
+    background-color: white;
+    box-shadow: 3px 8px 6px #888888;
+    margin-top: 30px;
+}
+
+/* table */
+#middle {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#table {
+    margin-top: 40px;
+}
+
+/* table end */
+

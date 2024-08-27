@@ -1,0 +1,38 @@
+* { margin:0; padding:0; box-sizing:border-box;}
+body {
+    background-color: whitesmoke;
+}
+
+div.part1 {
+    border: 2px solid rgb(219, 216, 216);
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.HEADING {
+    border: rgb(219, 216, 216);
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+.breadcrumb {
+    border-top: 2px solid rgb(219, 216, 216);
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: medium;
+}
+
+.Class {
+    border: 2px solid rgb(219, 216, 216);
+    margin-top: 35px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: white;
+}
